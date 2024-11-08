@@ -1,0 +1,11 @@
+#meals-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 50px;
+}
+.meals-design .card{
+    margin-left: 10px;
+    margin-top: 15px;
+    padding-bottom: 30px;
+    border: 2px solid #000;
+}
